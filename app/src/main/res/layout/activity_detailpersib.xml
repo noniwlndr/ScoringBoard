@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="camp.bso.inf.scoringboard.detailpersib">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Persib (Persatuan Sepak Bola Indonesia Bandung) adalah sebuah tim sepak bola Indonesia terbesar yang berdiri pada 14 Maret 1933, klub ini berbasis di Bandung, Jawa Barat. Persib saat ini bermain di Liga Super Indonesia. Julukan mereka adalah Maung Bandung dan Pangeran Biru."/>
+
+    <Button
+        android:id="@+id/lamanpersib"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="kunjungi website resmi"/>
+
+</LinearLayout>
